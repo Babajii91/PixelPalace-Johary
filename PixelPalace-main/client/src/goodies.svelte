@@ -85,7 +85,7 @@
 	"license": "Valorant"
 }
     ];
-    
+
 </script>
 
 <style lang="css" src="./global.css"></style>
