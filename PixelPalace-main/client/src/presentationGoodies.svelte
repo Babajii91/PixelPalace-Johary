@@ -86,6 +86,8 @@
 }
     ];
     
+<style lang="css" src="./global.css"></style>
+
 {#each goodies as goodie}
     <div class="container-goodies">
         <div class="goodie-info">

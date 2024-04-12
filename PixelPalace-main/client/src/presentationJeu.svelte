@@ -92,6 +92,7 @@
 	}
 ];
 
+<style lang="css" src="./global.css"></style>
 
 {#each jeux as jeu}
     <div class="container">
